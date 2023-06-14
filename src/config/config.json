@@ -1,0 +1,23 @@
+{
+    "development": {
+        "username": "rynsh15",
+        "password": "root",
+        "database": "book_store",
+        "host": "localhost",
+        "dialect": "postgres"
+    },
+    "test": {
+        "username": "rynsh15",
+        "password": "root",
+        "database": "book_store",
+        "host": "localhost",
+        "dialect": "postgres"
+    },
+    "production": {
+        "username": "rynsh15",
+        "password": "root",
+        "database": "book_store",
+        "host": "localhost",
+        "dialect": "postgres"
+    }
+}
